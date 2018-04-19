@@ -6,7 +6,7 @@
 <body>
 
 <?PHP echo "<h2>Intact Web Uploader</h2>"; ?>
-	<form action="splunk-results.php" id="myForm" name="frmupload" method="post" enctype="multipart/form-data">
+	<form action="results.php" id="myForm" name="frmupload" method="post" enctype="multipart/form-data">
 	<?php echo "<p>Welcome, select a file to upload.</p>\n"; ?>
 		<input type="file" name="fileToUpload" id="fileToUpload" multiple="multiple">
 		<br /><br />
