@@ -53,3 +53,6 @@ if ($uploadOk == 0) {
 }
 
 ?>
+
+</body>
+</html>
